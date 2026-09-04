@@ -32,6 +32,11 @@ The project uses MySQL to store:
 2. Install MySQL.
 3. Create the database using the SQL file.
 4. Install the MySQL Connector:
+5. Update the database connection details in the Python file.
+6. Run the program:
 
+```bash
+python task2.py
+```
 ```bash
 pip install mysql-connector-python
